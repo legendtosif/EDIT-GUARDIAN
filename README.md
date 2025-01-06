@@ -17,5 +17,5 @@ E D I T G U A R D I A N
 + [KRISH NETWORK](https://t.me/krishnetwork)
 
 
-> Try this bot [@EditGuardiansBot](https://t.me/GroupsEditGuardian_bot); it's made with this repository for demonstration purposes.
+> Try this bot [@𝐆ʀᴏᴜᴘs𝐄ᴅɪᴛ𝐆ᴜᴀʀᴅɪᴀɴsʙᴏᴛ](https://t.me/GroupsEditGuardian_bot); it's made with this repository for demonstration purposes.
 > 
