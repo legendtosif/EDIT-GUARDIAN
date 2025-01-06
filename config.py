@@ -12,7 +12,7 @@ SUDO_ID = [1679112664]
 
 MONGO_URI = ""
 
-DB_NAME = "DnsGuadian"
+DB_NAME = "krisheditGuadian"
 
 LOGGER = True
 
