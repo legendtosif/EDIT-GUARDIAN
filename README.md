@@ -5,7 +5,7 @@
 E D I T G U A R D I A N
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-    𝐊𝐑𝐈𝐒𝐇 𝐁𝐎𝐓𝐒
+    𝐊 𝐑 𝐈 𝐒 𝐇 𝐍 𝐄 𝐓 𝐁 𝐎 𝐓 𝐒
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
