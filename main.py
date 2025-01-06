@@ -4,7 +4,7 @@ import re
 import asyncio
 import time
 from random import choice
-from null import *
+from Null import *
 from telegram import Update, Bot
 from pyrogram import Client, filters
 from pyrogram.types import Message
@@ -391,7 +391,7 @@ def main():
                 f"{SUPPORT_ID}",
                 photo=PM_START_IMG,               
                 caption=f"""
-𝗛𝗲𝗹𝗹𝗼 𝗜 𝗮𝗺 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝗲𝗱𝗶𝘁𝗲𝗱 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀 ! 𝗜 𝗮𝗺 𝗖𝗿𝗲𝗮𝘁𝗲 𝗯𝘆 @krishnetwork""",
+𝗛𝗲𝗹𝗹𝗼 𝗜 𝗮𝗺 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 𝘁𝗼 𝗺𝗮𝗻𝗮𝗴𝗲 𝗲𝗱𝗶𝘁𝗲𝗱 𝗺𝗲𝘀𝘀𝗮𝗴𝗲𝘀 ! 𝗜 𝗮𝗺 𝗖𝗿𝗲𝗮𝘁𝗲 𝗯𝘆 @nullcrow""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
@@ -422,4 +422,5 @@ if __name__ == '__main__':
 
 
 
-        
+
+      
