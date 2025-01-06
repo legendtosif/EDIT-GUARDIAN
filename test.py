@@ -22,10 +22,10 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 logger = logging.getLogger(__name__)
 
 buttons = [
-    [InlineKeyboardButton(text="𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/EditGuardiansBot?startgroup=true")],
-    [InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/Dns_Official_Channel"),
-     InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url="https://t.me/net_pro_max")],
-    [InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url="https://t.me/II_RAJPUT_SHIV_OP_II")]
+    [InlineKeyboardButton(text="𝗔𝗱𝗱 𝗠𝗲 𝗧𝗼 𝗬𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽", url=f"https://t.me/GroupsEditGuardian_bot?startgroup=true")],
+    [InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url="https://t.me/krishnetwork"),
+     InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url="https://t.me/joinintro")],
+    [InlineKeyboardButton(text="𝗢𝘄𝗻𝗲𝗿", url="https://t.me/krishsupport")]
 ]
 
 PM_START_TEXT = """
